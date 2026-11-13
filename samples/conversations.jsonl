@@ -1,0 +1,14 @@
+{"message_id":"m01","contact_id":"c01","time":"2026-11-12T09:00:00+08:00","speaker":"customer","text":"发我一份高二数学资料，谢谢。"}
+{"message_id":"m02","contact_id":"c02","time":"2026-11-12T09:05:00+08:00","speaker":"customer","text":"我数学跟不上，想找补课。"}
+{"message_id":"m03","contact_id":"c03","time":"2026-11-12T09:10:00+08:00","speaker":"customer","text":"我是在小红书看到的。孩子高二，数学跟不上。"}
+{"message_id":"m04","contact_id":"c04","time":"2026-11-12T09:15:00+08:00","speaker":"customer","text":"我是高一学生，英语基础不太好，想补基础。"}
+{"message_id":"m05","contact_id":"c04","time":"2026-11-12T09:16:00+08:00","speaker":"employee","text":"能安排 2026 年 11 月 14 日北京时间 19:00 的英语试听，你可以参加吗？"}
+{"message_id":"m06","contact_id":"c04","time":"2026-11-12T09:17:00+08:00","speaker":"customer","text":"可以，就约这个时间。"}
+{"message_id":"m07","contact_id":"c05","time":"2026-11-12T09:20:00+08:00","speaker":"customer","text":"孩子读高三，想找物理复习课备考。"}
+{"message_id":"m08","contact_id":"c05","time":"2026-11-12T09:21:00+08:00","speaker":"employee","text":"试听时间是 2026 年 11 月 14 日北京时间 19:00，可以参加吗？"}
+{"message_id":"m09","contact_id":"c05","time":"2026-11-12T09:22:00+08:00","speaker":"customer","text":"可以，确定约这个时间。"}
+{"message_id":"m10","contact_id":"c05","time":"2026-11-12T09:25:00+08:00","speaker":"customer","text":"刚确定的试听我去不了了，得改期，新的时间待定。"}
+{"message_id":"m11","contact_id":"c06","time":"2026-11-12T09:30:00+08:00","speaker":"customer","text":"我高二，想提高数学成绩。昨天已经试听了数学课，刚刚也付过款。"}
+{"message_id":"m12","contact_id":"c07","time":"2026-11-12T09:35:00+08:00","speaker":"employee","text":"这是试听链接。如果对课程满意，可以直接付款。"}
+{"message_id":"m13","contact_id":"c07","time":"2026-11-12T09:36:00+08:00","speaker":"customer","text":"我还没试听，如果满意我再付款。"}
+{"message_id":"m14","contact_id":"c08","time":"2026-11-12T09:40:00+08:00","speaker":"customer","text":"我是从抖音来的。孩子高三，想报化学备考课，我同意你发的方案，今晚付款。"}
